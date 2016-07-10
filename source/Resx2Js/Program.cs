@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 using System.Text;
 using System.Xml;
@@ -73,7 +74,7 @@ namespace Resx2Js
 					else
 						outPath.FileExtension2 = "js";
 
-					using (var file = File.CreateText(outPath.ToString()))
+					using (var file = File.CreateText(outPath.ToString().ToLower(CultureInfo.InvariantCulture)))
 					{
 						file.Write(text);
 					}
