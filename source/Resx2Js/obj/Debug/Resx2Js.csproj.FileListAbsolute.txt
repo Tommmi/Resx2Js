@@ -1,0 +1,13 @@
+C:\GitHub\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.exe.config
+C:\GitHub\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.exe
+C:\GitHub\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.pdb
+C:\GitHub\Resx2Js\source\Resx2Js\bin\Debug\TUtils.Common.dll
+C:\GitHub\Resx2Js\source\Resx2Js\obj\Debug\Resx2Js.exe
+C:\GitHub\Resx2Js\source\Resx2Js\obj\Debug\Resx2Js.pdb
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.exe.config
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.exe
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\bin\Debug\Resx2Js.pdb
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\bin\Debug\TUtils.Common.dll
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\obj\Debug\Resx2Js.csprojResolveAssemblyReference.cache
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\obj\Debug\Resx2Js.exe
+C:\Dropbox\Development_junction\projects\github\Resx2Js\source\Resx2Js\obj\Debug\Resx2Js.pdb
