@@ -5,6 +5,9 @@ Transpiles a VisualStudio resource file (*.resx) and it's depending locale trans
 JavaScript files. Moreover it generates a CSharp file, which can be included into Saltarelle or Bridge.NET projects
 to access the JavaScript-resources easily from CSharp code.
 
+## History
+see [history](Documentation/history.md)
+
 ## Example
 Guess there are following files:
 ```
