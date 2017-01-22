@@ -25,10 +25,19 @@ will generate following files:
 	and
 	C:\MyTranslations\resource1.cs
 
+Calling 
+	resx2js.exe resxFilePath="C:\MyTranslations\resource1.resx" namespaceJs=MyNamespace transpiler=TypeScript
+will generate following files:
+	C:\MyTranslations\resource1.ts
+	C:\MyTranslations\resource1.de.ts
+	C:\MyTranslations\resource1.es.ts
+	and
+	C:\MyTranslations\resource1.d.ts
+
 ## USAGE
 ```
 resx2js.exe
 	resxFilePath="{file path to default resource}"
 	namespaceJs={namespace used in generated files}
-	transpiler=<Saltarelle|BridgeNet>
+	transpiler=<Saltarelle|BridgeNet|TypeScript>
 ```
