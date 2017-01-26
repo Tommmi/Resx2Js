@@ -1,4 +1,6 @@
 # History of Resx2Js
+## Version 1.0.1.1 - 26.01.2017
+bugfix of crash in Saltarelle mode
 ## Version 1.0.1.0 - 22.01.2017
 new commandline option for parameter transpile: transpiler=<Saltarelle|BridgeNet|TypeScript>
 ## Version 1.0.0.0 - 13.11.2016
